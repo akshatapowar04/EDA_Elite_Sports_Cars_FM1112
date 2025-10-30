@@ -38,7 +38,7 @@ Stacked bar charts indicated that Market Demand is higher for Electric and Diese
 
 ##### Trends and Anomalies
 ###### Trends:
-###### Newer models (post-2015) show higher horsepower and engine sizes with improved acceleration.
+###### •Newer models (post-2015) show higher horsepower and engine sizes with improved acceleration.
 ###### Electric cars are becoming more common after 2010 with increasing top speeds and price.
 ###### Mileage tends to decrease as price and engine size increase, showing a trade-off between power and efficiency.
 ###### European brands dominate in premium and high-performance segments.
